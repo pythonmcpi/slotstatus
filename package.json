@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js-light": "4.9.0"
+  },
+  "name": "@pipythonmc/slotstatus",
+  "description": "Display a status and respond to DMs. Written for Slotbot.",
+  "version": "1.0.0",
+  "main": "status.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pythonmcpi/slotstatus.git"
+  },
+  "author": "Pipythonmc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pythonmcpi/slotstatus/issues"
+  },
+  "homepage": "https://github.com/pythonmcpi/slotstatus#readme",
+  "private": true
+}
